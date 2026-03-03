@@ -1,0 +1,2 @@
+#EXTM3U #EXT-X-VERSION:3 #EXTINF:-1,Channel 3385
+http://localhost:5350/live/3385.m3u8
